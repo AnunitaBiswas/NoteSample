@@ -16,5 +16,11 @@ This is a simple note taking app in Android with Integrated API. In this project
 - Complete Signup/Login Flow 
 
 
+## Demo
+
+![Demo](https://yt3.ggpht.com/SGWJWplTHs6omu72a_scFQDndpAfgwdj4Pct6Fs8BGO7gU9yyTMV2H4H0epk7OgnTxwFmsIFEP9D3Q=s640-c-fcrop64=1,00000000ffffffff-nd-v1-rwa)
+
+
+## Reference:
 Reference :
 https://www.youtube.com/watch?v=8ZLbv6TSa-U&list=PLRKyZvuMYSIMO2ebTldbwMTnDCn5klzjS
